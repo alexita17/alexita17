@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="/css/estilos.css">
+</head>
+<body>
+<div class="galeria">
+<div class="uno"><img src="/imagenes/OIF.jpg" alt="" height="100px"></div>    
+<div class="uno"> <img src="/imagenes/OIP (1).jpg" alt="" height="100px"></div>    
+<div class="uno"> <img src="/imagenes/OIP (2).jpg" alt="" height="100px"> </div>   
+<div class="uno"><img src="/imagenes/OIP (3).jpg" alt="" height="100px"> </div>   
+<div class="uno"> <img src="/imagenes/OIP (4).jpg" alt="" height="100px"> </div>
+</div>
+<br>
+<div class="galeria">
+    <div class="uno"><img src="/imagenes/OIP (5).jpg" alt="" height="100px"></div> 
+    <div class="uno"><img src="/imagenes/OIP (6).jpg" alt="" height="100px"></div>  
+    <div class="uno"><img src="/imagenes/OIP (7).jpg" alt="" height="100px"></div>  
+    <div class="uno"><img src="/imagenes/OIP (8).jpg" alt="" height="100px"></div>  
+    <div class="uno"><img src="/imagenes/OIP (9).jpg" alt="" height="100px"></div>  
+    </div>
+    <br>
+
+    <br>
+    <div class="Galeria">
+        <div class="uno"><img src="/imagenes/OIP (10).jpg" alt="" height="100px"></div>  
+        <div class="uno"><img src="/imagenes/OIP (11).jpg" alt="" height="100px"></div>  
+        <div class="uno"> <img src="/imagenes/OIP (12).jpg" alt="" height="100px"></div> 
+        <div class="uno"><img src="/imagenes/OIP (13).jpg" alt="" height="100px"></div>  
+        <div class="uno"> <img src="/imagenes/OIP (14).jpg" alt="" height="100px"></div> 
+        </div>
+        <br>
+
+        <br>
+        <div class="Galeria">
+            <div class="uno"><img src="/imagenes/OIP (15).jpg" alt="" height="100px"></div>  
+            <div class="uno"><img src="/imagenes/OIP (16).jpg" alt="" height="100px"></div>  
+            <div class="uno"><img src="/imagenes/OIP (17).jpg" alt="" height="100px"></div>   
+            <div class="uno"><img src="/imagenes/OIP (18).jpg" alt="" height="100px"></div> 
+            <div class="uno"><img src="/imagenes/OIP (16).jpg" alt="" height="100px"></div>   
+            </div>
+            <br>
+
+</body>
+</html>
